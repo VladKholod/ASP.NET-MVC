@@ -1,0 +1,47 @@
+﻿@using System.Reflection.Emit
+@{
+    ViewBag.Title = "Home Page";
+}
+
+    <div id="login" class="left">
+
+        <input id="userName" type="text"/>
+        <input id="login-btn" type="button" value="LogIn"/>
+        <br />
+        <b>Type your name!</b>
+
+    </div>
+
+    <div id="logout" class="right">
+        <span id="helloUser"></span>
+        <input id="logout-btn" type="button" value="LogOut"/>
+    </div>
+
+<div class="jumbotron">
+    <div id="status">
+        <p></p>
+    </div>
+
+    <div id="thinkup">
+        <input id="thinkup-box" type="text">
+        <input id="thinkup-btn" type="button" value="ThinkUp number"/>
+        <br/>
+        <b>Type number, please!</b>
+        <hr/>
+    </div>
+
+    <div id="guess">
+        <input id="guess-box" type="text">
+        <input id="guess-btn" type="button" value="Guess number"/>
+        <br/>
+        <b>Type number, please!</b>
+        <hr />
+        
+        <p id="helper"></p>
+        <hr />
+    </div>
+
+    <div id="history">
+        <p></p>
+    </div>
+</div>

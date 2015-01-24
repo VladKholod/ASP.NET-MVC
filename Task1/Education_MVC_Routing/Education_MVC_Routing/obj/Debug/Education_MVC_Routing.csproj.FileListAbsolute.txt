@@ -1,0 +1,7 @@
+D:\Course.Net\Workbench\_Tasks\ASP.NET MVC\Ресурсы\Education_MVC_Routing\Education_MVC_Routing\obj\Debug\Education_MVC_Routing.csprojResolveAssemblyReference.cache
+D:\Course.Net\Workbench\_Tasks\ASP.NET MVC\Ресурсы\Education_MVC_Routing\Education_MVC_Routing\bin\Education_MVC_Routing.dll
+D:\Course.Net\Workbench\_Tasks\ASP.NET MVC\Ресурсы\Education_MVC_Routing\Education_MVC_Routing\bin\Education_MVC_Routing.pdb
+D:\Course.Net\Workbench\_Tasks\ASP.NET MVC\Ресурсы\Education_MVC_Routing\Education_MVC_Routing\bin\EntityFramework.dll
+D:\Course.Net\Workbench\_Tasks\ASP.NET MVC\Ресурсы\Education_MVC_Routing\Education_MVC_Routing\bin\EntityFramework.xml
+D:\Course.Net\Workbench\_Tasks\ASP.NET MVC\Ресурсы\Education_MVC_Routing\Education_MVC_Routing\obj\Debug\Education_MVC_Routing.dll
+D:\Course.Net\Workbench\_Tasks\ASP.NET MVC\Ресурсы\Education_MVC_Routing\Education_MVC_Routing\obj\Debug\Education_MVC_Routing.pdb
